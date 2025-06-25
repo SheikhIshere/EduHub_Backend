@@ -31,7 +31,7 @@ DEBUG = env('DEBUG')
 ALLOWED_HOSTS = ['*']
 
 CSRF_TRUSTED_ORIGINS = [
-    '',
+    'https://eduhub-backend-aqfv.onrender.com',
 ]
 
 # Application definition
